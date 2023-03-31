@@ -1,4 +1,4 @@
-# [📈 Live Status](https://https://blaurent.github.io/web_monitoring): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://blaurent.github.io/web_monitoring): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Benoit ](https://blog.littlecorner.info/), powered by [Upptime](https://github.com/upptime/upptime).
 
