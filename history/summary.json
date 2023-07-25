@@ -4,7 +4,7 @@
     "url": "https://blog.littlecorner.info/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.littlecorner.info.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1240,
     "timeYear": 1162,
     "dailyMinutesDown": {
+      "2023-07-25": 0,
       "2023-06-13": 103
     }
   }
