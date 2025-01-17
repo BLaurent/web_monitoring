@@ -2,26 +2,26 @@
 owner: blaurent # Your GitHub organization or username, where this repository lives
 repo: web_monitoring # The name of this repository
 
-sites:
-  - name: Blog
-    url: https://blog.littlecorner.info/
-assignees:
-  - Blaurent
+# sites:
+#   - name: Blog
+#     url: https://blog.littlecorner.info/
+# assignees:
+#   - Blaurent
 
-status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: blaurent.github.io
-  baseUrl: /web_monitoring
-  name: LittleCorner Monitoring
-  logoUrl: https://blog.littlecorner.info/93489351.png
-  introTitle: "Monitoring Dashboard with Upptime"
-  introMessage: Some websites I manage and monitor using the Nice Upptime github Actions
-  theme: light
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+# status-website:
+#   # Add your custom domain name, or remove the `cname` line if you don't have a domain
+#   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+#   # cname: blaurent.github.io
+#   baseUrl: /web_monitoring
+#   name: LittleCorner Monitoring
+#   logoUrl: https://blog.littlecorner.info/93489351.png
+#   introTitle: "Monitoring Dashboard with Upptime"
+#   introMessage: Some websites I manage and monitor using the Nice Upptime github Actions
+#   theme: light
+#   navbar:
+#     - title: Status
+#       href: /
+#     - title: GitHub
+#       href: https://github.com/$OWNER/$REPO
+# # Upptime also supports notifications, assigning issues, and more
+# # See https://upptime.js.org/docs/configuration
